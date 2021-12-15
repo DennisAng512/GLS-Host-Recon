@@ -1,3 +1,7 @@
+# 2301903733 - DENNIS
+# GLS Pastebin
+# Programming for Penetration Testing
+
 import base64
 from requests import post
 from subprocess import Popen, PIPE
